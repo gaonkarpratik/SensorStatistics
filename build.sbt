@@ -17,4 +17,5 @@ libraryDependencies += "com.typesafe.akka"             %% "akka-http-spray-json"
 libraryDependencies += "org.json4s"                    %% "json4s-jackson"                  % "3.6.7"
 libraryDependencies += "ch.qos.logback"                 % "logback-classic"                 % "1.2.10"
 libraryDependencies += "org.slf4j"                      % "slf4j-api"                       % "1.7.35"
-libraryDependencies += "org.scalatest"                 %% "scalatest"                       % "3.3.0-SNAP2" % Test
+libraryDependencies += "org.scalatest"                 %% "scalatest"                       % "3.2.11"  % Test
+
